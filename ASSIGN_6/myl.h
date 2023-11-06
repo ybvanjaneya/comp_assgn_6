@@ -5,7 +5,9 @@
 #define OK 0
 
 int printStr(char *);
-int readInt(int *);
 int printInt(int);
+int readInt(int *); 
+int printFlt(float);
+int readFlt(float *); 
 
 #endif
